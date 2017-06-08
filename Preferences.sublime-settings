@@ -1,0 +1,38 @@
+{
+	"animation_enabled": false,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 2,
+	"margin": 0,
+	"match_selection": false,
+	"rulers":
+	[
+		72,
+		79,
+		100
+	],
+	"scroll_past_end": false,
+	"show_definitions": true,
+	"show_scroll_tabs": true,
+	"show_tabs_dropdown": true,
+	"tab_size": 4,
+	"theme": "One Dark.sublime-theme",
+	"trailing_spaces_modified_lines_only": true,
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"use_tab_stops": true,
+	"word_wrap": false,
+	"wrap_width": 79
+}
